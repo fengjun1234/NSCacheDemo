@@ -35,6 +35,7 @@
     
     _myCache.delegate = self;
     
+    NSLog(@"我是主分支");
 }
 
 
